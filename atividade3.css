@@ -1,0 +1,27 @@
+
+p::first-letter {
+  color: red;
+  font-size: 200%;
+  }
+
+a.link1:link {
+color: darkgreen;
+
+}
+	
+a.link2:link {
+	color: darkgreen
+}
+
+a.link3:visited {
+	color: maroon;
+}
+a.link4:visited {
+	color: maroon;
+}
+a.link5:houver {
+	background-color: yellow;
+}
+a.link6:active {
+	color: blue;
+}

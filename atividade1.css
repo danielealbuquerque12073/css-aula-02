@@ -1,0 +1,9 @@
+p{
+	color: purple;
+}
+p, li {
+	font-size: 90px;
+}
+h1{
+	text-align: center;
+}
